@@ -11,7 +11,7 @@
 - Login Page
  <img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/e7194ace-e0ba-4362-8494-b2af5d90969f" />
  
-- Dashboard Page
+- Dashboard Page/IMG
  <img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/a0fc5e09-d033-41b8-a194-66205f462795" />
 
 
