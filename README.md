@@ -17,10 +17,10 @@
  
  ## Game Section
 - Slots
-<img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/1f092a47-4fd2-460c-9b9b-fccfe13c3a62" />
-
 - Enter Bet Amount
 - Win/Loss
+<img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/1f092a47-4fd2-460c-9b9b-fccfe13c3a62" />
+
 <img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/21878952-cb2a-4f16-b055-c59e2c2c1763" />
 
 
