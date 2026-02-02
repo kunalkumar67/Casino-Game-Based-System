@@ -23,6 +23,12 @@
 
 <img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/21878952-cb2a-4f16-b055-c59e2c2c1763" />
 
+- BlackJack
+<img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/18db8036-aa60-4920-8be1-fe6ee683ca53" />
+
+
+
+
 
 
 
