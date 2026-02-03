@@ -16,8 +16,7 @@
  <img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/a0fc5e09-d033-41b8-a194-66205f462795" />
  
  ## Game Section
- ### (Enter Bet Amount, WIN/LOSS)
-- Slots
+ 
 - Enter Bet Amount
 - Win/Loss
 <img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/1f092a47-4fd2-460c-9b9b-fccfe13c3a62" />
