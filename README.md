@@ -29,6 +29,9 @@
 - BLACKJACK
 <img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/18db8036-aa60-4920-8be1-fe6ee683ca53" />
 
+<img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/a24d2030-5d8c-4586-92f8-57c5f5883737" />
+
+
 
 
 
