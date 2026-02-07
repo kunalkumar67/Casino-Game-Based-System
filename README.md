@@ -6,6 +6,8 @@
 - 🎡 Realistic animations & sounds including spinning slots, card dealing, and roulette wheel physics.
   
 ## GUI Sample Images
+
+- Here are some sample images of GUI
 - Sign-Up/Sign-In Page
  <img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/bd238ee2-f1be-4be8-aadd-a7e879ad8cf2" />
  
