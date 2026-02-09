@@ -34,6 +34,10 @@
 
 <img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/a24d2030-5d8c-4586-92f8-57c5f5883737" />
 
+- ROULETTE
+<img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/2944ffea-fef4-4483-8191-bdfdcbd3b164" />
+
+
 
 
 
