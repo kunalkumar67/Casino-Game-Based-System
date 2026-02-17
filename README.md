@@ -7,6 +7,7 @@
 
 ##
 - **Under Testing**
+- **More games will be added soon**
   
 ## GUI Sample Images
 
