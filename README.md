@@ -6,7 +6,7 @@
 - 🎡 Realistic animations & sounds including spinning slots, card dealing, and roulette wheel physics. 
 
 ##
-- **Under Testing**
+- **Project is currently under testing**
 - **More games will be added soon**
   
 ## GUI Sample Images
