@@ -7,7 +7,7 @@
 
 ##
 - **Project is currently under testing**
-- **More games will be added soon**
+- **More games with advanced triggers will be added soon**
   
 ## GUI Sample Images
 
