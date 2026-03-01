@@ -9,6 +9,7 @@
 - **Project is currently under testing.**
 - **More games with advanced triggers will be added soon.**
 - **Any alternative idea/collab are most welcome.**
+- xoxo
   
 ## GUI Sample Images
 
