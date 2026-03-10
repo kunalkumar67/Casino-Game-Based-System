@@ -59,7 +59,7 @@
 ##
 
 - WIN/LOSE
-- LOG OUT
+- LOGOUT
 <img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/0d9284ef-95fd-4dc3-baa1-54bb07c7d137" />
 
 
