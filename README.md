@@ -62,6 +62,11 @@
 - LOGOUT
 <img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/0d9284ef-95fd-4dc3-baa1-54bb07c7d137" />
 
+##
+LEADERBOARD HISTORY
+<img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/1c20b753-ea3f-4ef3-bfdb-fe0d8b58052c" />
+
+
 
 
 
