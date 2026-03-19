@@ -69,7 +69,7 @@
 
 - TERMINAL BET HISTORY DATA
 <img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/1831f014-87a1-41e1-86fb-109283580dac" />
-xoxo
+-----------------------------------------------------------------------------------------------------------------------------------
 
 
 
