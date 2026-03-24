@@ -65,9 +65,12 @@
 ##
 
 - LEADERBOARD HISTORY
-<img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/1c20b753-ea3f-4ef3-bfdb-fe0d8b58052c" />
+<img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/f1e63439-2a73-4361-8b01-46f96c777c03" />
 
-- TERMINAL BET HISTORY DATA
+- BET HISTORY
+
+<img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/1c20b753-ea3f-4ef3-bfdb-fe0d8b58052c" />
+##
 <img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/1831f014-87a1-41e1-86fb-109283580dac" />
 -----------------------------------------------------------------------------------------------------------------------------------
 
