@@ -15,8 +15,6 @@
 ### app.py interface
 <img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/755c6054-b9c9-41aa-b471-0e1f3e4347c9" />
 
-
-
 ## GUI Sample Images
 
 - Here are some real time function games images of casino game system.
