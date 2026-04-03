@@ -9,6 +9,10 @@
 - **Project is currently under testing.**
 - **More games with advanced triggers will be added soon.**
 
+## app.py server
+<img width="900" height="320" alt="image" src="https://github.com/user-attachments/assets/22e6f0c9-c024-42fa-b23d-0318cbb4b1a2" />
+
+
 ## GUI Sample Images
 
 - Here are some real time function games images of casino game system.
