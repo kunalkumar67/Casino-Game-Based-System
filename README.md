@@ -9,13 +9,13 @@
 - **Project is currently under testing.**
 - **More games with advanced triggers will be added soon.**
 
-## app.py server
+### app.py server
 <img width="900" height="350" alt="image" src="https://github.com/user-attachments/assets/22e6f0c9-c024-42fa-b23d-0318cbb4b1a2" />
 
 ### app.py interface
 <img width="900" height="350" alt="image" src="https://github.com/user-attachments/assets/755c6054-b9c9-41aa-b471-0e1f3e4347c9" />
 
-## main.py server
+### main.py server
 <img width="900" height="350" alt="image" src="https://github.com/user-attachments/assets/ede16575-2a89-4b58-8c2e-ed53f6cbd338" />
 
 
