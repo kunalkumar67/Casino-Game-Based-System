@@ -1,11 +1,11 @@
-  # Casino Game System 
+  # ***Casino Game System*** 
 - 🎰 Full Casino Game System with GUI-based Slots, Blackjack, and Roulette using Python (Tkinter + Pygame).
   
 - 💾 Database-driven wallet & bet history using MySQL 8.0 with real-time balance updates.
 
 - 🎡 Realistic animations & sounds including spinning slots, card dealing, and roulette wheel physics. 
 
-## Project Overview
+## ***Project Overview***
 
 ### app.py server
 <img width="900" height="350" alt="image" src="https://github.com/user-attachments/assets/22e6f0c9-c024-42fa-b23d-0318cbb4b1a2" />
