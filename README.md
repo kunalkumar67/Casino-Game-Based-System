@@ -5,9 +5,7 @@
 
 - 🎡 Realistic animations & sounds including spinning slots, card dealing, and roulette wheel physics. 
 
-##
-- **Project is currently under testing.**
-- **More games with advanced triggers will be added soon.**
+## Project Overview
 
 ### app.py server
 <img width="900" height="350" alt="image" src="https://github.com/user-attachments/assets/22e6f0c9-c024-42fa-b23d-0318cbb4b1a2" />
