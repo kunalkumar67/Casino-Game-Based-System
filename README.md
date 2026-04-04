@@ -16,7 +16,7 @@
 <img width="900" height="350" alt="image" src="https://github.com/user-attachments/assets/755c6054-b9c9-41aa-b471-0e1f3e4347c9" />
 
 ### main.py server
-<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/0fe4002e-1df6-4137-88f7-fde1cd3ef183" />
+<img width="900" height="650" alt="image" src="https://github.com/user-attachments/assets/0fe4002e-1df6-4137-88f7-fde1cd3ef183" />
 
 
 
