@@ -48,6 +48,12 @@
 - Create a new database: CREATE DATABASE casino_db;
 - Update MySQL credentials in db.py (host, user, password)
 
+4. **Run the application**
+   ```bash
+   python app.py           # For Flask web version
+   python gui_app.py       # For Tkinter GUI version
+   python main.py          # For terminal version
+
 
 
 ## GUI Sample Images
