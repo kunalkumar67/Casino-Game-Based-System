@@ -26,6 +26,9 @@
 - 📊 **Game History**: Track all bets and view leaderboards
 - ⚡ **Optimized Performance**: Terminal and GUI support for flexibility
 
+## Installation
+- pip install -r requirements.txt
+
 
 
 ## GUI Sample Images
