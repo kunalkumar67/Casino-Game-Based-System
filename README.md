@@ -16,6 +16,16 @@
 ### main.py server
 <img width="900" height="650" alt="image" src="https://github.com/user-attachments/assets/0fe4002e-1df6-4137-88f7-fde1cd3ef183" />
 
+## Features
+
+- 🎰 **Multiple Casino Games**: Slots, Blackjack, and Roulette with realistic mechanics
+- 🔐 **User Authentication**: Secure sign-up and login system
+- 💾 **Database Integration**: MySQL 8.0 for wallet management and bet tracking
+- 🎨 **Modern GUI**: Built with Tkinter for smooth user experience
+- 🎵 **Animations & Sound**: Realistic game animations and audio effects
+- 📊 **Game History**: Track all bets and view leaderboards
+- ⚡ **Optimized Performance**: Terminal and GUI support for flexibility
+
 
 
 ## GUI Sample Images
