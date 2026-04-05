@@ -40,7 +40,13 @@
    git clone https://github.com/kunalkumar67/Casino-Game-Based-System.git
    cd Casino-Game-Based-System
 2. **Install Python Dependencies**
-- pip install flask mysql-connector-python pygame
+   ```bash
+   pip install flask mysql-connector-python pygame
+
+3. **Setup MySQL Database**
+
+- Create a new database: CREATE DATABASE casino_db;
+- Update MySQL credentials in db.py (host, user, password)
 
 
 
