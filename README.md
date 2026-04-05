@@ -27,7 +27,18 @@
 - ⚡ **Optimized Performance**: Terminal and GUI support for flexibility
 
 ## Installation
-- pip install -r requirements.txt
+
+### Prerequisites
+- Python 3.8 or higher
+- MySQL 8.0 or higher
+- pip (Python package manager)
+
+### Steps to Install
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/kunalkumar67/Casino-Game-Based-System.git
+   cd Casino-Game-Based-System
 
 
 
