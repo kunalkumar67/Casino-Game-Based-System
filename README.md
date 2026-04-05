@@ -39,6 +39,8 @@
    ```bash
    git clone https://github.com/kunalkumar67/Casino-Game-Based-System.git
    cd Casino-Game-Based-System
+2. **Install Python Dependencies**
+- pip install flask mysql-connector-python pygame
 
 
 
