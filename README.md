@@ -27,7 +27,6 @@
 - ⚡ **Optimized Performance**: Terminal and GUI support for flexibility
 
 ## Installation
-
 ### Prerequisites
 - Python 3.8 or higher
 - MySQL 8.0 or higher
