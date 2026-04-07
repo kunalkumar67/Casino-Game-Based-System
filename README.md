@@ -111,9 +111,11 @@
 
 ##
 
-- BET HISTORY
+- BET HISTORY:
+1. INTERFACE
 <img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/1c20b753-ea3f-4ef3-bfdb-fe0d8b58052c" />
 
+2. TERMINAL
 <img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/1831f014-87a1-41e1-86fb-109283580dac" />
 ----------------------------------------------------------------------------------------------------------------------------------
 
