@@ -112,10 +112,10 @@
 ##
 
 - BET HISTORY:
-1. INTERFACE
+1.  GUI PART
 <img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/1c20b753-ea3f-4ef3-bfdb-fe0d8b58052c" />
 
-2. TERMINAL
+2. TERMINAL PART
 <img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/1831f014-87a1-41e1-86fb-109283580dac" />
 ----------------------------------------------------------------------------------------------------------------------------------
 
