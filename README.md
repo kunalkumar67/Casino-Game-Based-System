@@ -111,7 +111,7 @@
 ##
 
 - BET HISTORY:
-1. GUI PART
+1. CASINO DASHBOARD
 <img width="1700" height="900" alt="image" src="https://github.com/user-attachments/assets/1c20b753-ea3f-4ef3-bfdb-fe0d8b58052c" />
 
 2. TERMINAL PART
