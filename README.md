@@ -43,7 +43,6 @@
    pip install flask mysql-connector-python pygame
 
 3. **Setup MySQL Database**
-
 - Create a new database: CREATE DATABASE casino_db;
 - Update MySQL credentials in db.py (host, user, password)
 
